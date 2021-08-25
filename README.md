@@ -5,6 +5,6 @@ All files are designed to be printed on a Resin Printer with 0.05mm tolerance
 
 All versions:
 
-vA: Elegoo Mars 2 Pro + Elegoo Waterwashable Ceramic grey - tested MsryBiscuits
+vA: Elegoo Mars 2 Pro + Elegoo Waterwashable Ceramic grey - tested MiseryBiscuits
 
 Support MsryBiscuits' work at: Ko-fi.com/miserybiscuits
